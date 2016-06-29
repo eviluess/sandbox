@@ -1,6 +1,6 @@
 # sandbox
 Practice of Github
 
-Click here to read the wiki in English.
+[View Wiki In English](https://github.com/eviluess/sandbox/wiki)
 
-点击此处使用简体中文阅读介绍。
+[查看中文版说明](https://github.com/eviluess/sandbox/wiki)
