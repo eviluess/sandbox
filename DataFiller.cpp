@@ -23,8 +23,6 @@ int main(int argc, char* argv[])
 
   //0x93c30
   0x93c3a
-
-
 	*/
 	int from = size * 49030/65536;
 	int len = size / 65536;
