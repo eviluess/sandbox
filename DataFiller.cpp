@@ -6,7 +6,7 @@
 #include <stdlib.h>
 #include <malloc.h>
 
-#define FileName "D:\\Downloads\\gittest\\SYS\\GBX.PAC"
+#define FileName "GBX.PAC"
 
 int main(int argc, char* argv[])
 {
