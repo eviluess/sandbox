@@ -6,8 +6,8 @@
 #include <stdlib.h>
 #include <malloc.h>
 
-//#define FileName "D:\\Downloads\\¥°¥é¥ó¥Ç¥£¥¢ ¥¨¥¯¥¹¥È¥ê©`¥à\\SYS\GBX.PAC"
-#define FileName "D:\\Downloads\\gittest\\SYS\GBX.PAC"
+
+#define FileName "D:\\Downloads\\gittest\\SYS\\GBX.PAC"
 
 int main(int argc, char* argv[])
 {
