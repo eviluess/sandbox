@@ -1,6 +1,6 @@
 ### Destiny Stones - Spells at a Glance
 
-| Caster | Target | Follow Me | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  | Go Fulfill Your Duty                                   |
+| Caster | Target | Follow Me | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lead the Way&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  | Go Fulfill Your Duty                                   |
 |---|---|---|-------------------------------------------------------------------------------|--------------------------------------------------------|
 | **Leader** | **NPC** | Force Recruit as Companion | Make NPC the new Leader                                        | Restore the NPC's dialogue                             |
 | **Leader** | **Companion** | Force Ally status | Make Companion the new Leader;<br/>*Caster becomes Former Leader*             | Dismiss to NPC status                                  |
